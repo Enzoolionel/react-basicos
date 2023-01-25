@@ -1,0 +1,30 @@
+{
+    "frameworks":[
+        {
+            "id":1,
+            "name":"React",
+            "web":"https://Reactjs.com"
+        },
+                
+                {
+            "id":2,
+            "name":"Java",
+            "web":"https://java.com"
+        }  ,      
+        {
+            "id":3,
+            "name":"JavaScript",
+            "web":"ww2.JavaScript.com"
+        }  ,      
+        {
+            "id":4,
+            "name":"Angular",
+            "web":"www.Angular.com"
+        }  ,  
+        {  
+            "id":5,
+            "name":"Python",
+            "web":"www.Python.com"
+        }
+    ]
+}

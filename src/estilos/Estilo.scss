@@ -1,0 +1,17 @@
+
+// definicion de variables en sass
+$color-sass: #bf4080;
+$color-sass-80: #bf408080;
+
+
+// estilos anidados, se le pasa un hover al elemento .bg-sass con el signo &
+.bg-sass{
+    background-color: $color-sass;
+    padding: 10px;
+    transition: background-color .5s ease-in-out;
+    &:hover{
+        background-color: $color-sass-80;
+    }
+    
+}
+
